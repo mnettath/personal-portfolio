@@ -51,15 +51,27 @@ a:visited {
   font-size: 2rem;
 }
 
+#home img {
+  width: 30vh;
+  height: 30vh;
+  border-radius: 50%;
+  border: 5px dashed black;
+}
+
 #about {
   background-color: #fec8c1;
   height: 100vh;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-#projects {
-  background-color: #fad9c1;
-  height: 100vh;
+#about img {
+  width: 20vh;
+  height: 20vh;
 }
+
 #contact {
   background-color: #f9caa7;
   height: 7vh;
