@@ -1,5 +1,27 @@
+* {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
 header {
   border: 5px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+nav ul li {
+  display: inline;
+}
+
+li {
+  padding: 10px 10px;
+}
+
+/* a:link is the default state of link, a:visited is the state of the link after being visited */
+a:link,
+a:visited {
+  text-decoration: none;
+  color: black;
 }
 
 #home {
