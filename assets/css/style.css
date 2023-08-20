@@ -21,6 +21,7 @@ header {
 
 nav ul li {
   display: inline;
+  font-size: 1.25rem;
 }
 
 li {
@@ -36,6 +37,18 @@ a:visited {
 
 #home {
   height: 93vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#home h2 {
+  font-size: 5rem;
+}
+
+#home p {
+  font-size: 2rem;
 }
 
 #about {
