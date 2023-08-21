@@ -104,13 +104,16 @@ a:visited {
 .image-container {
   position: relative;
   display: inline;
+  margin: 20px 0px;
 }
 
 .image-text {
   position: absolute;
   bottom: 20px;
   left: 20px;
-  color: white;
+  color: black;
+  background-color: white;
+  padding: 5px 5px;
 }
 
 #contact {
