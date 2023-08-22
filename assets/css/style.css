@@ -116,14 +116,40 @@ a:visited {
   padding: 5px 5px;
 }
 
-#contact {
+/* #contact {
   background-color: #f9caa7;
-  height: 7vh;
+  height: 15vh;
+} */
+
+footer h2 {
+  font-size: 3rem;
+  float: left;
+  padding-right: 20px;
 }
 
-section,
+footer a {
+  padding: 30px;
+}
+
+footer a:hover {
+  background-color: white;
+  padding: 5px 5px;
+}
+
 footer {
-  padding: 10px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 2.5rem;
+  background-color: #f9caa7;
+  height: 15vh;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  * {
+    scroll-behavior: smooth;
+  }
 }
 
 /* large mobile devices*/
