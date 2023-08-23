@@ -12,7 +12,7 @@ N/A
 
 When a viewer loads this personal portfolio in their browser, they will first see a navigation bar and a home screen. The navigation bar can be used to automatically scroll to different sections of the portfolio. These sections include: Home, About, Projects, and Contact. When in the Projects section, viewers can view past projects with titles. To see the project in a live browser, the viewer just needs to click on the respective box. Lastly, when viewers go to the Contact section, they can hover over the options to email me, view my GitHub, or connect on Linkedin. These items become highlighted when hovered over.
 
-![Here is a screenshot of my Portfolio website:](assets/images/Screenshot.png)
+![Screenshot of portfolio website:](assets/images/Screenshot.png)
 
 ## Credits
 
